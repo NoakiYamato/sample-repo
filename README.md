@@ -1,3 +1,3 @@
 # sample-repo
 更新
-new-featureブランチで変更
+no-fast-forwardブランチで変更
