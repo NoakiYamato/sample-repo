@@ -1,3 +1,3 @@
 # sample-repo
 更新
-no-fast-forwardブランチで変更
+mainブランチで変更(コンフリクト発生)
