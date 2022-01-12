@@ -1,4 +1,4 @@
 # sample-repo
 更新
 conflictブランチで変更(コンフリクト発生)
-rebase-practiceブランチで更新(rebase用)
+mainブランチで更新(rebaseコンフリクト用)
